@@ -1,0 +1,1 @@
+Hello from ZKAuth! This file was mathematically bound to the proof.\n\nIf a hacker changes this text, the proof will fail verification at the Gateway.
